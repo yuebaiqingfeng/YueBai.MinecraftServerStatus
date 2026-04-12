@@ -1,0 +1,4 @@
+# Minecraft Server Status 插件依赖
+# 执行 pip install -r requirements.txt 即可安装所有依赖
+mcstatus>=9.0.0
+aio-mc-rcon>=2.0.0
