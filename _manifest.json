@@ -5,14 +5,14 @@
   "description": "我的世界服务器状态查询插件，支持查询在线人数、延迟、TPS、在线玩家等信息",
   "author": {
     "name": "月白清风",
-    "url": ""
+    "url": "https://github.com/yuebaiqingfeng"
   },
   "license": "GPL-3.0",
   "host_application": {
     "min_version": "0.12.2"
   },
-  "homepage_url": "",
-  "repository_url": "",
+  "homepage_url": "https://github.com/yuebaiqingfeng/YueBai.MinecraftServerStatus",
+  "repository_url": "https://github.com/yuebaiqingfeng/YueBai.MinecraftServerStatus",
   "keywords": [
     "minecraft",
     "server",
@@ -55,5 +55,5 @@
       "多命令触发，使用更方便"
     ]
   },
-  "id": "YueBai.MinecraftServerStatus"
+  "id": "yuebaiqingfeng.YueBai.MinecraftServerStatus"
 }
