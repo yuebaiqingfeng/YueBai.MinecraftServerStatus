@@ -11,8 +11,8 @@
   "host_application": {
     "min_version": "0.12.2"
   },
-  "homepage_url": "https://github.com/yuebaiqingfeng/YueBai.MinecraftServerStatus",
-  "repository_url": "https://github.com/yuebaiqingfeng/YueBai.MinecraftServerStatus",
+  "homepage_url": "https://github.com/yuebaiqingfeng/MinecraftServerStatus",
+  "repository_url": "https://github.com/yuebaiqingfeng/MinecraftServerStatus",
   "keywords": [
     "minecraft",
     "server",
@@ -55,5 +55,5 @@
       "多命令触发，使用更方便"
     ]
   },
-  "id": "yuebaiqingfeng.YueBai.MinecraftServerStatus"
+  "id": "yuebaiqingfeng.MinecraftServerStatus"
 }
