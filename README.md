@@ -14,7 +14,7 @@
 ## 安装方法
 1. 将整个插件文件夹放入maibot的插件目录
 2. 执行 `pip install -r requirements.txt` 安装所需的Python依赖
-3. 重启机器人
+3. 重启maibot
 4. 按照下方说明修改配置文件即可使用
 
 ## 配置说明
